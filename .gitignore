@@ -1,0 +1,6 @@
+*.o
+*.out
+*.exe
+main
+a.out
+hello_world
