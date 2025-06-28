@@ -24,7 +24,7 @@ int main() {
 
     int length = sizeof(array) / sizeof(array[0]);
 
-    for (i = 0; i <= length; i++) {
+    for (i = 0; i < length; i++) {
         factorial *= array[i];
     }
 
