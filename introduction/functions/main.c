@@ -16,6 +16,8 @@ int main() {
     for (i = 0; i < 6; i++) {
         print_big(array[i]);
     }
+
+    return 0;
 }
 
 void print_big(int number) {
